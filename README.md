@@ -1,13 +1,13 @@
 Hyperspectral Image Denoising with Realistic Data
 ===
 
-This is paired real hyperspectral denoising dataset and PyTorch implementation of Hyperspectral Image Denoising with Realistic Data in ICCV, 2021
+This is real hyperspectral denoising dataset and PyTorch implementation of Hyperspectral Image Denoising with Realistic Data in ICCV, 2021
 ***
 [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.html)
 ***
 
 ## Dataset
-You can download paired real hyperspectral denoising dataset by the following links:
+You can download real hyperspectral denoising dataset by the following links:
 1. [Google Drive](https://drive.google.com/file/d/1cKtSF42HiDQdW48Ccjq3vSEq5zcxq1HK/view?usp=sharing)
 2. [百度云盘](https://pan.baidu.com/s/1XUqLvdpqVZjaYZsxDa8ENA), 提取码：hwa6
 
