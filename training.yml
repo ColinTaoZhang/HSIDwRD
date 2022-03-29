@@ -1,0 +1,28 @@
+###############
+
+GPU: [0]
+
+VERBOSE: True
+
+MODEL:
+  MODE: 'Denoising'
+  RATIO: 50
+  SESSION: '3DUnet'
+
+# Optimization arguments.
+OPTIM:
+  BATCH_SIZE: 1
+  NUM_EPOCHS: 10000
+  LR_INITIAL: 2e-4
+  #NEPOCH_DECAY: [40]
+  #BETA1: 0.9
+
+TRAINING:
+  TRAIN_PS: 128
+  VAL_PS: 196
+  RESUME: False
+  TRAIN_DIR: ''   # path to training data
+  VAL_DIR: ''     # path to validation data
+  SAVE_DIR: './checkpoints'          # path to save models and images
+  SAVE_IMAGES: False
+  #VAL_AFTER_EVERY: 1
